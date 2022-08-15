@@ -1,7 +1,7 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Kimnoca✌️&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=kimnoca✌️&fontSize=70)
 ##
   <h3>📚 Tech Stack 📚</h3>
     
