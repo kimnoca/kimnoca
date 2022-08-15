@@ -14,9 +14,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <br>
-<h3>📖 My BOJ Profile 📖</h3>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimnoca)](https://solved.ac/kimnoca)
 <h3>💻 My GitHub Stats 💻</h3>
 
 
