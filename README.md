@@ -16,6 +16,9 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnoca&show_icons=true&)<br><br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimnoca)](https://solved.ac/kimnoca)
-<a href="https://kimnoca.tistory.com"><img src="https://img.shields.io/badge/TechBlog-f000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimnoca)](https://solved.ac/kimnoca)<br><br>
+<h3>•••</h3>
+<a href="https://kimnoca.tistory.com"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.instagram.com/kimnoca_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 
