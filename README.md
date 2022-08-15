@@ -15,5 +15,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnoca&show_icons=true&)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnoca&show_icons=true&)<br><br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimnoca)](https://solved.ac/kimnoca)
+<a href="https://kimnoca.tistory.com"><img src="https://img.shields.io/badge/TechBlog-f000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
