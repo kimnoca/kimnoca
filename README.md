@@ -20,5 +20,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnoca&show_icons=true&)<br>
 ##
 <h3>•••</h3>
-<a href="https://velog.io/@kimnoca"><img src="https://img.shields.io/badge/TechBlog-#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@kimnoca"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/kimnoca_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br><br>
