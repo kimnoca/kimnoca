@@ -5,7 +5,7 @@
 ##
     
 <h3>✏️ Studying ✏️</h3>
-https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
 
