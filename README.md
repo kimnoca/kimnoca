@@ -14,7 +14,7 @@
 <h3>💻 My GitHub Stats 💻</h3>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnoca&show_icons=true&)<br>
+![kimnoca's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnoca&show_icons=true&)<br>
 ##
 <h3>•••</h3>
 <a href="https://kimnoca-dev.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-FF5722?style=flat-square&logo=Tistory&logoColor=white"/></a>
